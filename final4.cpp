@@ -1,5 +1,5 @@
 
-                                                                      //Tic-TAC-Toe game
+                                                                      //Tic-TAC-Toe game program
 
 #include<iostream.h>
 #include<conio.h>
